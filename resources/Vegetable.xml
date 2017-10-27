@@ -1,0 +1,17 @@
+<Veggies>
+    <Vegetable Name="Pepper">
+        <Calories>12.43</Calories>
+        <Fat>54.23</Fat>
+        <Carbs>67.09</Carbs>
+    </Vegetable>
+    <Vegetable Name="Onion">
+        <Calories>35.034</Calories>
+        <Fat>4.38</Fat>
+        <Carbs>62.99</Carbs>
+    </Vegetable>
+    <Vegetable Name="Garlic">
+        <Calories>2.63</Calories>
+        <Fat>83.329</Fat>
+        <Carbs>1.78</Carbs>
+    </Vegetable>
+</Veggies>
