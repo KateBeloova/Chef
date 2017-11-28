@@ -21,7 +21,7 @@ public class RunnerExceptions {
         try {
             salad.printAllInfo();
         } catch (NoIngredientsException e) {
-            System.out.println(e.getClass() + "salad has no ingredients.");
+            System.out.println(e.getClass() + "salad has no any ingredients.");
         }
     }
 
